@@ -1,6 +1,6 @@
 # Champion–Challenger Model Comparison with Hugging Face and MLflow
 
-**Student:** Bhavayraj Singhal · **USN:** 1MS25CI031 · **Course:** Skill Lab – MLOps with MLflow (Mini Project)
+**Student:** Avi Sinha  **USN:** 1MS25CI026 · **Course:** Skill Lab – MLOps with MLflow (Mini Project/assignment)
 
 ## 1. Task and models
 
