@@ -93,7 +93,7 @@ The two models disagree on 16 of the 200 sentences. On those, only A is right 6 
 
 ![predict_from_mlflow.py output](screenshots/3_predict_from_mlflow_output.png)
 
-**MLflow screenshots**
+**MLflow screenshots as follows:**
 
 ![Compare view](screenshots/1_mlflow_compare_view.png)
 
